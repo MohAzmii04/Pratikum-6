@@ -7,7 +7,7 @@
 ### Reporsitory ini sebagai tugas kuliah bahasa pemograman
 
 
-1. Pertama masukkan codingan ini, lalu run :
+1. Pertama masukkan codingan **Latihan.py**, lalu run :
 
               import math
               # Mohammad Azmi Abdussyukur
@@ -41,11 +41,11 @@ Dan Berikut Hasilnya :
 ![Latiham](https://user-images.githubusercontent.com/115864496/205640373-63a678f4-7dec-4bbd-9830-f97eb09343a0.png)
 
 
-2. Selanjutnya kita akan buat program crud sederhana dan berikut flowchart program yang akan di buat.
+2. Selanjutnya kita akan buat program crud sederhana dan berikut **flowchart** program yang akan di buat.
 
 
 
-3. Lalu Buka file Pratikum6.py dan masukkan codingan sebagi berikut lau run :
+3. Lalu Buka file **Pratikum6.py** dan masukkan codingan sebagi berikut lau run :
 
               from os import system
               s_nama = []
@@ -184,27 +184,27 @@ Dan Berikut Hasilnya :
               
 Dan berikut hasil runnya :
 
-Jika memilih opsi 1 = Tambah Data maka akan tampil sebagai berikut :
+Jika memilih opsi 1 = **Tambah Data** maka akan tampil sebagai berikut :
 
 ![Tambah Data](https://user-images.githubusercontent.com/115864496/205642533-591077a1-1d73-4bb8-aa4a-fde916302340.png)
 
 
-Jika memilih Opsi 2 = Melihat Data Maka tampil sebagai berikut :
+Jika memilih Opsi 2 = **Melihat Data** Maka tampil sebagai berikut :
 
 ![Melihat Data](https://user-images.githubusercontent.com/115864496/205642778-ee9be6c2-14b6-4130-a1dd-86bb7287013a.png)
 
 
-Jika memilih opsi 3 = Mengubah Data Maka tampil sebagai berikut :
+Jika memilih opsi 3 = **Mengubah Data** Maka tampil sebagai berikut :
 
 ![Mengubah Data](https://user-images.githubusercontent.com/115864496/205643019-e8c2b65f-246a-4688-a4ec-e3eb530ce016.png)
 
 
-Jika memilih opsi 4 = Menghapus Data Maka tampil sebagai berikut :
+Jika memilih opsi 4 = **Menghapus Data** Maka tampil sebagai berikut :
 
 ![Menghapus Data](https://user-images.githubusercontent.com/115864496/205643527-6ed76b9e-54e2-4c0d-9c2c-d1e474196948.png)
 
 
-Jika memilih opsi 5 = Doneeee Maka akan codingan selesai :
+Jika memilih opsi 5 = **Doneee** Maka akan codingan selesai :
 
 ![Doneee](https://user-images.githubusercontent.com/115864496/205643773-a6ad2edf-0424-4360-89a8-6b14f59124ca.png)
 
