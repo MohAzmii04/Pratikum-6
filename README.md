@@ -230,6 +230,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 
 ## Flowchart Praktikum 6
 
-![Gambar WhatsApp 2022-12-06 pukul 10 09 27](https://user-images.githubusercontent.com/115867244/205803017-c2d891d7-dc10-45c1-a341-c4fb61dfeb7d.jpg)
+![photo_2022-12-06_17-12-29](https://user-images.githubusercontent.com/115864496/205883972-c7c74e0a-3034-4f7d-8ecf-dd2de91d5415.jpg)
+
 
 ## Sekian, Terima kasih
